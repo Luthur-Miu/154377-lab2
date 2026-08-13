@@ -1,2 +1,2 @@
-# 154377-lab1
-lab1 html
+# 154377-lab2
+lab2 html
