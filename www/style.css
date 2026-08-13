@@ -1,0 +1,27 @@
+h3 {
+    color: rgb(126, 36, 9);
+}
+
+.container {
+    color: rgb(54, 10, 125);
+    border-style: dashed;
+    border-color: crimson;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.container-bg {
+    background-color: ivory;
+}
+
+.my-front {
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+#container-id {
+    color: blueviolet;
+    margin-top: 100px;
+}
